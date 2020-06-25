@@ -10,7 +10,6 @@ Application showcase:
 * [Login Screen](https://github.com/harfialpharaby/abersoft/blob/master/demo/login.jpg)
 * [Onboarding Screen](https://github.com/harfialpharaby/abersoft/blob/master/demo/onboarding.jpg)
 
-
 ## Installation
 Prerequisites:
 * [Expo](https://docs.expo.io/get-started/installation/)
