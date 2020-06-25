@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "abersoft",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "omqoovovbmebne",
+    "password": "f3638b3188d3e8a58f08782820fdb8d042ad75714b3c6d3d569d264896b6974f",
+    "database": "de7kbp5vgnt6kq",
+    "host": "ec2-3-216-129-140.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
